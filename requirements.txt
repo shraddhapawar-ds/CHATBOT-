@@ -1,4 +1,5 @@
 langgraph>=0.1.9
+langgraph-checkpoint-sqlite
 langchain
 langchain-community
 langchain-openai
