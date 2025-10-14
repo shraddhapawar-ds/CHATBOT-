@@ -1,3 +1,4 @@
+langchain
 streamlit
 langgraph
 langchain-core
