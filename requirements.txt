@@ -1,4 +1,4 @@
-langgraph
+langgraph>=0.1.9
 langchain
 langchain-community
 langchain-openai
