@@ -1,8 +1,8 @@
+langgraph
 langchain
 langchain-community
 langchain-openai
 streamlit
-langgraph
 langchain-core
 openai
 python-dotenv
