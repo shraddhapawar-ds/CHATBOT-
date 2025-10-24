@@ -4,3 +4,4 @@ langchain-core
 openai
 python-dotenv
 langgraph-checkpoint-sqlite
+langchain_community
