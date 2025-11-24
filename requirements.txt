@@ -7,3 +7,4 @@ streamlit
 langchain-core
 openai
 python-dotenv
+ddgs
